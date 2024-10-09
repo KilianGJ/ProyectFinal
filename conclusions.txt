@@ -1,0 +1,31 @@
+1. Lessons Learned During Project Development.
+
+The development of this project allowed us to acquire and reinforce several key skills:
+
+--*Strengthening Java Programming Skills: During the implementation, we deepened the handling of data structures such as Map and List, as well as file manipulation through input and output operations. These techniques are fundamental in solving problems involving large volumes of data.
+
+--*Good Programming Practices: The project implementation underscored the importance of maintaining clean, well-documented code. Proper use of variable names, spacing and comments was essential to improve readability and maintainability of the code, following Java documentation standards.
+
+--*Text File Manipulation: We learned how to efficiently manage the reading, creation and processing of multiple text files. This aspect is especially relevant in real-world applications, where systems need to handle large volumes of information stored in files.
+
+--*Structuring and Problem Solving: The need to meet all project requirements forced us to organize our solution in a methodical way, developing a systematic approach to file creation, data processing and report generation.
+
+2. Professional Applications of the Acquired Competencies.
+
+The skills and knowledge acquired during this project have direct applications in the professional field:
+
+--*Data Processing: The ability to manipulate large data sets and generate reports is essential in many industries, such as sales management, accounting, and data analysis. The knowledge gained is applicable to any area that requires efficient information management, results analysis and reporting.
+
+--*Task Automation: The experience gained in automating the generation of files and reports is valuable in business environments where efficiency and the reduction of human error are priorities. This type of skill is critical in systems administration, software development and database management.
+
+--*Software Development and Object Oriented Programming: The concepts and principles applied in this project, such as object orientation, exception handling and code documentation, are essential in the daily practice of a software developer. The techniques employed here prepare us to tackle future projects with a more robust and professional approach.
+
+3. Difficulties encountered during the development of the project:
+
+The development of the project was not without challenges, among which we highlight the following:
+
+--*Errors in File Manipulation: Reading and processing a potentially large number of input files, without user interaction, posed significant challenges. Identifying and resolving errors in reading and writing files required thorough analysis and extensive debugging.
+
+--*Pseudorandom Data Generation: One of the challenges was to generate consistent and realistic pseudorandom data for testing. Striking a balance between randomness and consistency in the sales data was a major challenge in validating the system.
+
+--*Data Validation: Handling incorrect or inconsistent data formats in the input files required additional efforts to ensure that the program could detect and handle these errors efficiently, without compromising system stability.
